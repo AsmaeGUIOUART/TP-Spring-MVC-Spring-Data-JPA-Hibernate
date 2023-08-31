@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP3_SpringPatients_mvc_jpa_security.iml" filepath="$PROJECT_DIR$/.idea/TP3_SpringPatients_mvc_jpa_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3_Spring_Patients/TpSpring-hospital.iml" filepath="$PROJECT_DIR$/TP3_Spring_Patients/TpSpring-hospital.iml" />
+    </modules>
+  </component>
+</project>
